@@ -1,0 +1,26 @@
+
+h1{
+    font-size: 30px;
+    text-align: left;
+    margin-left: 20px;
+    display: block;
+    margin-bottom: 0;
+}
+article{
+    widows: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+}
+.article{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
